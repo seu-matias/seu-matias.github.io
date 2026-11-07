@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="Seu Matias Barbearia">
+  <!-- Redesenho vetorial da logo do Instagram (original tem só 150 px). O texto usa a fonte Lobster; para impressão, peça o arquivo original ao cliente. -->
+  <circle cx="60" cy="60" r="60" fill="#FECC2D"/>
+  <g fill="#16130E" transform="translate(24 20) scale(0.36)">
+    <path d="M100 14C110 4 130 3 148 10C166 17 184 17 197 3C200 22 188 42 163 45C143 47 127 37 113 39C107 40 103 43 100 47Z"/>
+    <path d="M100 14C90 4 70 3 52 10C34 17 16 17 3 3C0 22 12 42 37 45C57 47 73 37 87 39C93 40 97 43 100 47Z"/>
+  </g>
+  <text x="60" y="72" text-anchor="middle" font-family="Lobster, 'Brush Script MT', cursive" font-size="23" fill="#16130E">Seu Matias</text>
+  <text x="60" y="91" text-anchor="middle" font-family="'Hanken Grotesk', Arial, sans-serif" font-weight="700" font-size="9.5" letter-spacing="2.2" fill="#16130E">BARBEARIA</text>
+</svg>
